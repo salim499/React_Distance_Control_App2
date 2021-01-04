@@ -1,0 +1,10 @@
+.b {
+    color:white;
+    background-color: #000000;
+    cursor: pointer;
+    }
+.b:hover{
+    color:#000000;
+    background-color: #ffffff;
+    font-size: medium;
+    }
